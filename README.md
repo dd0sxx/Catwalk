@@ -18,15 +18,7 @@ For this project, we used the following languages and frameworks in our implemen
 </ul>
 
 <h2> Deployment </h2>
-We deployed our site on AWS, which can be viewed <a href='http://3.140.186.146/'>here</a>
-
-If you wish to deploy this repo on your local machine, follow these steps: 
-<ol>
-  <li>clone this repo to your local machine</li>
-  <li>run <code>yarn</code> in the 'my-app' directory</li>
-  <li>run <code>yarn start</code> after yarn has finished loading</li>
-  <li>you will find the site on localhost:3000</li>
-</ol>
+We deployed our site on Heroku, which can be viewed <a href='https://fec-proj-catwalk2.herokuapp.com/'>here</a>
 
 <h2> Testing </h2>
 Testing done with Jest and Enzyme. To run all tests:
