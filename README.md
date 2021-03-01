@@ -21,10 +21,7 @@ For this project, we used the following languages and frameworks in our implemen
 We deployed our site on Heroku, which can be viewed <a href='https://fec-proj-catwalk2.herokuapp.com/'>here</a>
 
 <h2> Testing </h2>
-Testing done with Jest and Enzyme. To run all tests:
-<code>
-yarn test
-</code>
+Testing done with Jest and Enzyme.
 
 
 # Components
